@@ -1,4 +1,5 @@
-# Netflix-Trend-Insights
+Netflix-Trends-Insights: An Exploratory Data Analysis Project
+
 Netflix-Trends-Insights is an independent exploratory data analysis (EDA) project focused on uncovering meaningful trends, strategic shifts and content patterns within Netflix’s ever-expanding catalog of TV shows and movies. The project utilizes a dataset of 7787 entries and performs deep analysis on variables such as title, cast, director, country, release year, date added, duration, rating and genres.
 
 The primary objective is to explore the dynamics of Netflix’s content strategy over time, understand regional contributions and analyze user-centric attributes to support strategic decision-making in content planning, audience targeting and global expansion for OTT platforms.
